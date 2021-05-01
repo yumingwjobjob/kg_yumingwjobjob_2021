@@ -1,1 +1,5 @@
 # kg_yumingwjobjob_2021
+THIS FILE ONLY FOR KAGO SOFTWARE ENGINEER INTERN 
+HOW TO RUN 
+TYPE: node main.js number1 number2 number3
+COPY TO YUMING WANG 

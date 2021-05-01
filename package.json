@@ -1,0 +1,26 @@
+{
+  "name": "yuming_wang_job_file",
+  "version": "1.0.0",
+  "description": "here's the file for yuming wang's software engineer intern job ",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js 2 300 455 "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yumingwjobjob/kg_yumingwjobjob_2021.git"
+  },
+  "keywords": [
+    "software",
+    "engineer",
+    "intern",
+    "at",
+    "kargo"
+  ],
+  "author": "yuming wang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yumingwjobjob/kg_yumingwjobjob_2021/issues"
+  },
+  "homepage": "https://github.com/yumingwjobjob/kg_yumingwjobjob_2021#readme"
+}
