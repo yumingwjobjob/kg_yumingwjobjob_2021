@@ -11,9 +11,9 @@ var mapping = {
     '9':'Nine'
 };
 
-var inputArr = process.argv.slice(2);
-var transformedArr = inputArr.map(transformToNumStr);
-console.log(transformedArr.join(','));
+var inputArr = process.argv.slice(2); //read the argument
+var transformedArr = inputArr.map(transformToNumStr);//looping into the function 
+console.log(transformedArr.join(','));//finalized the output 
 
 function transformToNumStr(s) {
     var transfromedString = '';
